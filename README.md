@@ -3,9 +3,9 @@ Simple project built with dynamic navbar
 
 
 ## Contents
-Index file:include the html index file which has the basic html of project, and you can add sections of your own by modifying it
-css file:the styling sheet for the index html file
-js file:that has the dynamic nav bar and contain some methods
+***Index.html :*** Include the html index file which has the basic html of project, and you can add sections of your own by modifying it<br>
+***style.css :*** Include the styling sheet for the index html file <br>
+***app.js :*** Include the dynamic nav bar and contain some methods <br>
 
 ## References
 1- https://developer.mozilla.org/en-US/docs/Web/API/Element/scrollIntoView#parameters
