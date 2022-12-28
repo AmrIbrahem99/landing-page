@@ -18,4 +18,4 @@ js file:that has the dynamic nav bar and contain some methods
 just open the project by the file called index.html
 
 ### Gif_explanation
-![](https://github.com/AmrIbrahem99/landing-page/tree/master/views/explanation.gif)
+![](https://github.com/AmrIbrahem99/landing-page/blob/master/view/explanation.gif)
